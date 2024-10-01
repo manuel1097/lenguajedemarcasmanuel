@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horario>
+    <dia nombre="Lunes">
+        <clase nombre="IPE1" hora="08:15-09:15"/>
+        <clase nombre="IPE1" hora="09:15-10:15"/>
+        <clase nombre="LMSGI" hora="10:15-11:15"/>
+        <clase nombre="GBD" hora="11:45-12:45"/>
+        <clase nombre="GBD" hora="12:45-13:45"/>
+        <clase nombre="DIGI" hora="13:45-14:45"/>
+    </dia>
+    <dia nombre="Martes">
+        <clase nombre="SOST" hora="08:15-09:15"/>
+        <clase nombre="IPE1" hora="09:15-10:15"/>
+        <clase nombre="LMSGI" hora="10:15-11:15"/>
+        <clase nombre="LMSGI" hora="11:45-12:45"/>
+        <clase nombre="PAR" hora="12:45-13:45"/>
+        <clase nombre="PAR" hora="13:45-14:45"/>
+    </dia>
+    <dia nombre="Miércoles">
+        <clase nombre="ISO" hora="08:15-09:15"/>
+        <clase nombre="ISO" hora="09:15-10:15"/>
+        <clase nombre="ISO" hora="10:15-11:15"/>
+        <clase nombre="GDB" hora="11:45-12:45"/>
+        <clase nombre="GDB" hora="12:45-13:45"/>
+        <clase nombre="GDB" hora="13:45-14:45"/>
+    </dia>
+    <dia nombre="Jueves">
+        <clase nombre="GBD" hora="08:15-09:15"/>
+        <clase nombre="ISO" hora="09:15-10:15"/>
+        <clase nombre="ISO" hora="10:15-11:15"/>
+        <clase nombre="ISO" hora="11:45-12:45"/>
+        <clase nombre="PAR" hora="12:45-13:45"/>
+        <clase nombre="PAR" hora="13:45-14:45"/>
+    </dia>
+    <dia nombre="Viernes">
+        <clase nombre="FH" hora="08:15-09:15"/>
+        <clase nombre="FH" hora="09:15-10:15"/>
+        <clase nombre="FH" hora="10:15-11:15"/>
+        <clase nombre="PAR" hora="11:45-12:45"/>
+        <clase nombre="PAR" hora="12:45-13:45"/>
+        <clase nombre="ISO" hora="13:45-14:45"/>
+    </dia>
+</horario>
